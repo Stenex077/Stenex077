@@ -1,3 +1,7 @@
+Stenex | Aspirante a Full Stack Developer 👨‍💻 🔍 Explorando Front-end, Back-end e tudo entre eles 🌐 📚 Compartilhando conhecimento e criando projetos ✨
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
